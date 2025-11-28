@@ -11,7 +11,7 @@ User-friendly interface with Streamlit
 Installation
 Clone the repository:
 
-git clone https://github.com/SURESHBEEKHANI/Smart-Diet-Analyzer.git
+git clone https://github.com/VedantSaraf1301/Voise_hackathon
 cd Smart-Diet-Analyzer
 Create and activate a virtual environment:
 
@@ -37,3 +37,4 @@ Project Structure
 app.py: Main application file containing the Streamlit interface and utility functions.
 requirements.txt: List of dependencies required for the project.
 .env: Environment file to store sensitive information like API keys.
+
